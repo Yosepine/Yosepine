@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yosepine
-- 👀 I’m interested in Java or Netbeans
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in programming like html, css, java
+- 🌱 I’m currently learning html,css, java
 - 💞️ I’m looking to collaborate on programming
 
 
